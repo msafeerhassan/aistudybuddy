@@ -11,7 +11,7 @@ AI Study Buddy is a Flask-based web application that helps you study and learn m
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/msafeerhassan/aistudybuddy.git
 cd ai-study-buddy
 ```
 
