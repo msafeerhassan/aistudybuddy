@@ -1,3 +1,7 @@
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=msafeerhassan/aistudybuddy@github)](https://gitads.dev/v1/ad-track?source=msafeerhassan/aistudybuddy@github)
+
+
 # AI Study Buddy
 
 AI Study Buddy is a Flask-based web application that helps you study and learn more effectively using Google's Generative AI.
@@ -33,6 +37,9 @@ pip install -r requirements.txt
 ```
 GOOGLE_API_KEY=your_api_key_here
 ```
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=msafeerhassan/aistudybuddy@github)](https://gitads.dev/v1/ad-track?source=msafeerhassan/aistudybuddy@github)
+
 
 ## Usage
 
@@ -67,5 +74,10 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Support
 
 If you encounter any issues or have questions, please open an issue in the GitHub repository.
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=msafeerhassan/aistudybuddy@github)](https://gitads.dev/v1/ad-track?source=msafeerhassan/aistudybuddy@github)
+
+
 
 <!-- GitAds-Verify: GLUCT5BLGMAE48TNC3GJARDURRWA185O -->
