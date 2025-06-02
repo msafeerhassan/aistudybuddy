@@ -67,3 +67,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Support
 
 If you encounter any issues or have questions, please open an issue in the GitHub repository.
+
+<!-- GitAds-Verify: GLUCT5BLGMAE48TNC3GJARDURRWA185O -->
